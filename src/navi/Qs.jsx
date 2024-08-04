@@ -1,3 +1,13 @@
-const { NavigationContainerRefContext } = require("@react-navigation/native");
+import React from "react";
+import Home from '../Pages/Home'
 
-NavigationContainerRefContext vvvc
+const Qs = () {
+
+    return(
+        <div>
+        <div> Hello</div>
+        </div>
+    )
+}
+
+export default Qs;

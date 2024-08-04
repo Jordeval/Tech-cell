@@ -8,7 +8,7 @@ const Navibar = ({ menuOpen }) => {
         <img src={seta} alt="Seta para cima" />
         Click no menu para conhecer nossos serviços.
       </div>
-      <button className='button-item'>Quem somos</button>
+      <button className='button-item' href = '..\src\navi\Qs.jsx' >Quem somos </button>
       <button className='button-item'>Assistência para Notebook</button>
       <button className='button-item'>Peças para Computadores</button>
       <button className='button-item'>Assistência para celular</button>
