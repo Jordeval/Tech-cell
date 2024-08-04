@@ -1,13 +1,11 @@
-import React from "react";
-import Home from '../Pages/Home'
+import React from 'react'
 
-const Qs = () {
-
-    return(
-        <div>
-        <div> Hello</div>
-        </div>
-    )
+function Qs() {
+  return (
+    <div>
+      <div>hello</div>
+    </div>
+  )
 }
 
-export default Qs;
+export default Qs
